@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-04b4d68e02007add6425.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment1-Debug-9807377a2ffdbb2768be.json",
+					"name" : "Assignment1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment1_autogen-Debug-e63a10cc801930f11717.json",
+					"name" : "Assignment1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment1_autogen_timestamp_deps-Debug-3d1c15128ad20c002925.json",
+					"name" : "Assignment1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/DELTA/GIthub/Learning24/QT/Assignment1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/DELTA/GIthub/Learning24/QT/Assignment1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,13 @@
+# ninja log v5
+6	1963	7354089897736478	Assignment1_autogen/timestamp	f2080bcab62c6b45
+6	1963	7354089897736478	Assignment1_autogen/mocs_compilation.cpp	f2080bcab62c6b45
+6	1963	7354089897736478	D:/DELTA/GIthub/Learning24/QT/Assignment1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Assignment1_autogen/timestamp	f2080bcab62c6b45
+6	1963	7354089897736478	D:/DELTA/GIthub/Learning24/QT/Assignment1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Assignment1_autogen/mocs_compilation.cpp	f2080bcab62c6b45
+1969	7334	7354089952435739	CMakeFiles/Assignment1.dir/main.cpp.obj	4b0ae18ce769a27d
+1965	7412	7354089953223377	CMakeFiles/Assignment1.dir/Assignment1_autogen/mocs_compilation.cpp.obj	b7a604289d89cfde
+1976	7600	7354089955113782	CMakeFiles/Assignment1.dir/insert_dlt.cpp.obj	cc422ea8c76d496a
+1991	7790	7354089957013133	CMakeFiles/Assignment1.dir/add_member.cpp.obj	68d97ef8c99c6251
+1981	7807	7354089957181868	CMakeFiles/Assignment1.dir/tableview.cpp.obj	af1d3a77f61ecf1
+1973	8258	7354089961685443	CMakeFiles/Assignment1.dir/mainwindow.cpp.obj	507070cb3af0f916
+1985	8368	7354089962792715	CMakeFiles/Assignment1.dir/assign.cpp.obj	ab0f6e34e1b747b5
+8368	10351	7354089982444203	Assignment1.exe	d3e84a15167762bd
